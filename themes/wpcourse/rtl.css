@@ -1,0 +1,8 @@
+body {
+    direction:rtl;
+    text-align:right;
+}
+.ad-info {
+    margin-left:unset;
+    margin-right:1rem;
+}

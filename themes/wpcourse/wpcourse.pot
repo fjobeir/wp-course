@@ -1,0 +1,345 @@
+# Copyright (C) 2021 Feras Jobeir
+# This file is distributed under the GNU GPL v2.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Course 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wpcourse\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-02-15T15:17:29+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: wpc\n"
+
+#. Theme Name of the theme
+msgid "WP Course"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://fjobeir.com"
+msgstr ""
+
+#. Description of the theme
+msgid "This is an amazing Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "Feras Jobeir"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://fb.com/ferasjobeir"
+msgstr ""
+
+#: 404.php:18
+msgid "Oh no! Page Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid "The page you are looking for no longer exists. Perhaps you can return back to the site's homepage and see if you can find what you are looking for. Or, you can try finding it with the information below."
+msgstr ""
+
+#: 404.php:20
+msgid "Back to Home"
+msgstr ""
+
+#: archive-wpc_ad.php:45
+#: archive.php:44
+#: taxonomy-wpc_ad_group.php:45
+msgid "No posts found"
+msgstr ""
+
+#: attachment.php:29
+#: audio.php:32
+msgid "What is this"
+msgstr ""
+
+#: attachment.php:34
+msgid "About the picture"
+msgstr ""
+
+#: attachment.php:38
+msgid "Picture Information"
+msgstr ""
+
+#: attachment.php:42
+msgid "Dimension"
+msgstr ""
+
+#: attachment.php:46
+msgid "Size"
+msgstr ""
+
+#: attachment.php:50
+msgid "Thumbnails"
+msgstr ""
+
+#: audio.php:37
+msgid "About the file"
+msgstr ""
+
+#: audio.php:41
+msgid "File Meta Data"
+msgstr ""
+
+#: comments.php:35
+msgid "Your name"
+msgstr ""
+
+#: comments.php:36
+msgid "Email address"
+msgstr ""
+
+#: comments.php:37
+msgid "Website"
+msgstr ""
+
+#: comments.php:40
+msgid "Your comment"
+msgstr ""
+
+#: footer.php:43
+msgid "Subscribe"
+msgstr ""
+
+#: functions.php:28
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:29
+msgid "Main Menu"
+msgstr ""
+
+#. translators: %s is a time difference
+#: functions.php:70
+msgid "%s ago"
+msgstr ""
+
+#: inc/customize.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customize.php:26
+msgid "Copyrights Text"
+msgstr ""
+
+#: inc/customize.php:39
+msgid "Footer Signature"
+msgstr ""
+
+#: inc/customize.php:50
+msgid "Footer Image"
+msgstr ""
+
+#: inc/customize.php:64
+msgid "Footer Color"
+msgstr ""
+
+#: inc/customize.php:79
+msgid "Default Color"
+msgstr ""
+
+#: inc/customize.php:81
+msgid "Aqua"
+msgstr ""
+
+#: inc/customize.php:82
+msgid "Green"
+msgstr ""
+
+#: inc/customize.php:83
+msgid "Grey"
+msgstr ""
+
+#: inc/customize.php:84
+msgid "Pink"
+msgstr ""
+
+#: inc/customize.php:85
+msgid "Red"
+msgstr ""
+
+#: inc/customize.php:86
+msgid "Yellow"
+msgstr ""
+
+#: inc/customize.php:119
+msgid "Footer Signature is too long"
+msgstr ""
+
+#: inc/helpers.php:41
+#: inc/helpers.php:57
+msgid "Not Found"
+msgstr ""
+
+#: inc/helpers.php:43
+#: inc/helpers.php:59
+msgid "Search Page"
+msgstr ""
+
+#: inc/helpers.php:53
+msgid "Home"
+msgstr ""
+
+#: inc/walkers/main-menu-edit-walker.php:175
+#: inc/walkers/top-menu-edit-walker.php:175
+msgid "Icon"
+msgstr ""
+
+#: inc/walkers/main-menu-edit-walker.php:182
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/widgets/categories.php:9
+msgid "WPC Categories"
+msgstr ""
+
+#: inc/widgets/categories.php:11
+msgid "This widget creates a categories list."
+msgstr ""
+
+#: inc/widgets/categories.php:49
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/widgets/categories.php:53
+#: inc/widgets/instagram.php:40
+#: inc/widgets/posts_list.php:90
+#: inc/widgets/search.php:49
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/instagram.php:9
+msgid "WPC Instagram"
+msgstr ""
+
+#: inc/widgets/instagram.php:11
+msgid "This widget allows you to embed Instagram Post"
+msgstr ""
+
+#: inc/widgets/instagram.php:31
+msgid "Our Featured Post"
+msgstr ""
+
+#: inc/widgets/instagram.php:36
+msgid "Please paste embedding code here"
+msgstr ""
+
+#: inc/widgets/instagram.php:44
+msgid "Embedded Code"
+msgstr ""
+
+#: inc/widgets/posts_list.php:8
+msgid "WPC Posts List"
+msgstr ""
+
+#: inc/widgets/posts_list.php:10
+msgid "This widget creates a posts list"
+msgstr ""
+
+#: inc/widgets/posts_list.php:66
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/posts_list.php:94
+msgid "Posts Count"
+msgstr ""
+
+#: inc/widgets/posts_list.php:98
+msgid "Alt Content"
+msgstr ""
+
+#: inc/widgets/posts_list.php:100
+#: inc/widgets/posts_list.php:107
+msgid "Post date"
+msgstr ""
+
+#: inc/widgets/posts_list.php:101
+#: inc/widgets/posts_list.php:108
+msgid "Post views"
+msgstr ""
+
+#: inc/widgets/posts_list.php:105
+msgid "Order By"
+msgstr ""
+
+#: inc/widgets/posts_list.php:112
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/posts_list.php:114
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/posts_list.php:115
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/search.php:9
+msgid "WPC Search"
+msgstr ""
+
+#: inc/widgets/search.php:11
+msgid "Add a search field"
+msgstr ""
+
+#: inc/widgets/search.php:45
+msgid "Search on the site"
+msgstr ""
+
+#: inc/widgets/search.php:53
+msgid "Placeholder"
+msgstr ""
+
+#: inc/widgets/sidebars.php:7
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/widgets/sidebars.php:8
+msgid "This sidebar appears in single posts and blog page"
+msgstr ""
+
+#: inc/widgets/sidebars.php:18
+msgid "This sidebar is contained in a footer column"
+msgstr ""
+
+#: partials/post-card-wide.php:33
+#: partials/post-card.php:27
+msgid "By"
+msgstr ""
+
+#: partials/single-share.php:6
+msgid "Share on Facebook"
+msgstr ""
+
+#: partials/single-share.php:12
+msgid "Tweet on Twitter"
+msgstr ""
+
+#: single-wpc_ad.php:52
+msgid "Click Here"
+msgstr ""
+
+#: single-wpc_ad.php:77
+#: single.php:122
+msgid "About author"
+msgstr ""
+
+#: single.php:53
+msgid "Tags"
+msgstr ""
+
+#: single.php:93
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:109
+msgid "Next Post"
+msgstr ""
+
+#: single.php:148
+msgid "You may also like"
+msgstr ""

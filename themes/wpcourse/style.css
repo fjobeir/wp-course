@@ -1,0 +1,185 @@
+/*
+
+Theme name: WP Course
+Theme URI: https://fjobeir.com
+Author: Feras Jobeir
+Author URI: https://fb.com/ferasjobeir
+License: GNU GPL v2
+License URI: http://gnu.org/licenses/gpl-2.0.html
+Description: This is an amazing Theme
+Version: 1.0
+Tags: blog, two-columns
+Text domain: wpc
+Tested up to: 5.7.2
+Requires PHP: 5.6
+
+*/
+
+img {
+    height: auto
+}
+
+iframe.instagram-media {
+    max-width: 100% !important;
+    width: 100% !important;
+    min-width: auto !important;
+}
+
+.blog-title-area span {
+    margin:.5rem .5rem .5rem 0;
+    display:inline-block
+}
+.comment.depth-1 {
+    flex-wrap:wrap;
+}
+.comment.depth-2,
+.comment.depth-3 {
+    flex: 1 0 calc(100% - 110px);
+    padding:10;
+    margin-top:10px;
+    margin-left: 100px;
+    flex-wrap:wrap;
+}
+@media screen and (max-width:768px) {
+    .comments-list img {
+        width:30px;
+        height:30px;
+        margin-right:12px
+    }
+    .comment.depth-2,
+    .comment.depth-3 {
+        flex: 1 0 calc(100% - 42px);
+        margin-left:42px;
+    }
+}
+.comment #respond {
+    width: 100%;
+}
+.bypostauthor {
+    background-color:#f0f0f0;
+}
+.comment-edit-link {
+    margin-left:1em !important;
+}
+
+.ad-info {
+    margin-left:1rem;
+}
+
+.format-aside .blog-box {
+    background-color:#f0f8ff;
+    padding:1em;
+}
+.format-status .blog-box {
+    background-color:#edeff2;
+    padding:1em;
+}
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text, .gallery-caption {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	border: 0;
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute !important;
+	width: 1px;
+	word-wrap: normal !important; /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+	background-color: #eee;
+	clip: auto !important;
+	clip-path: none;
+	color: #444;
+	display: block;
+	font-size: 1em;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000;
+	/* Above WP toolbar. */
+}

@@ -8,7 +8,3 @@ if (!function_exists('wpc_child_enqueue_scripts')) {
     }
     add_action('wp_enqueue_scripts', 'wpc_child_enqueue_scripts', 11);
 }
-
-if (isset($_GET['feras'])) {
-    var_dump(YoastSEO()->meta->for_post(95)->breadcrumbs);
-}
